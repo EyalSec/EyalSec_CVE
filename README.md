@@ -1,1 +1,5 @@
-# EyalSec_CVE
+# EyalSec CVE's:
+- CVE-2024-42005
+- CVE-2025-57833
+- To be continued...
+
